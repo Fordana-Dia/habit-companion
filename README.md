@@ -1,3 +1,5 @@
+![CI](https://github.com/Fordana-Dia/habit-companion/actions/workflows/ci.yml/badge.svg)
+
 # Habit Companion — Setup initial
 
 ## Structure du projet
